@@ -8,11 +8,11 @@ Code and data for the paper "Constructing Data-Driven Budgeted Uncertainty Sets 
 
 **experiment3.py**: Experiment 3: compare IH, OH and SH results on large-scale instances.
 
-**experiment6.py**: Experiment 4: bayesian optimization based on IH and OH solutions.
+**experiment4.py**: Experiment 4: bayesian optimization based on IH and OH solutions.
 
-**experiment8.py**: Experiment 5: test and compare IH, OH and SH on Chicago travel time dataset.
+**experiment5.py**: Experiment 5: test and compare IH, OH and SH on Chicago travel time dataset.
 
-**experiment9.py**: A.2. Experiment: employ the extreme-points approach introduced in Section 4.1 to approximate a budgeted uncertainty set by a discrete uncertainty set.
+**experiment6.py**: A.2. Experiment: employ the extreme-points approach introduced in Section 4.1 to approximate a budgeted uncertainty set by a discrete uncertainty set.
 
 **Chicago_main.csv**: Chicago instances used in the experiments.
 
