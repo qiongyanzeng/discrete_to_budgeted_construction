@@ -12,8 +12,6 @@ Code and data for the paper "Constructing Data-Driven Budgeted Uncertainty Sets 
 
 **experiment5.py**: Experiment 5: test and compare IH, OH and SH on Chicago travel time dataset.
 
-**experiment6.py**: A.2. Experiment: employ the extreme-points approach introduced in Section 4.1 to approximate a budgeted uncertainty set by a discrete uncertainty set.
-
 **Chicago_main.csv**: Chicago instances used in the experiments.
 
 **Requirements:**
@@ -25,8 +23,10 @@ Code and data for the paper "Constructing Data-Driven Budgeted Uncertainty Sets 
 
 ## Usage
 
-To run an experiment, execute the corresponding script, for example:
+To run an experiment, place the corresponding Python script in a separate folder and execute it from there, for example:
 
 ```
-python experiment1.py 
+python experiment1.py
 ```
+
+Each script writes its output files to the current working directory, so running each experiment in its own folder keeps the results separate.
