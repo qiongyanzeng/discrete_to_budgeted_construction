@@ -10,9 +10,7 @@ Code and data for the paper "Constructing Data-Driven Budgeted Uncertainty Sets 
 
 **experiment4.py**: Experiment 4: bayesian optimization based on IH and OH solutions.
 
-**experiment5.py**: Experiment 5: test and compare IH, OH and SH on Chicago travel time dataset.
-
-**Chicago_main.csv**: Chicago instances used in the experiments.
+**experiment5.py**: Experiment 5: test and compare IH, OH, and SH on the Chicago travel time dataset. The data used in this experiment can be downloaded from [Zenodo](https://zenodo.org/records/15267992) (file `Chicago_main.csv`).
 
 **Requirements:**
 - Python 3.12.3
